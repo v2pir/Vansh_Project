@@ -1,7 +1,7 @@
 # Voice Controlled Robotic Arm
 Ever needed an extra hand or arm? Maybe you have too many things to hold. Or you are too far away from something and you are struggling to reach for it. Using this voice controlled robotic arm, just with a few commands, this robotic arm is under your control.
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
+| **Creator** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Vansh | Amador Valley High School | Computer Science/Robotics | Incoming Sophomore
 
